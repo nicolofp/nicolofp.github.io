@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Nicolo Foppa Pedretti"
+  search: false
   navbar:
     left:
       - href: index.qmd
@@ -13,6 +14,7 @@ website:
 
 format:
   html:
+    fontsize: smaller
     theme:
       - cosmo
       - brand

@@ -1,7 +1,5 @@
 ---
 title: "Nicol&oacute; Foppa Pedretti"
-author: "Nicol&oacute; Foppa Pedretti"
-date: "2025-06-10"
 format: 
   html:
     fontsize: smaller

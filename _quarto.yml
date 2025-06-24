@@ -13,7 +13,6 @@ website:
         text: About
       - href: add_resume.qmd
         text: Resume
-        
 
 format:
   html:

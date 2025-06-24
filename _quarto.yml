@@ -16,7 +16,7 @@ website:
       - section: "Layout"
         contents:
           - add_resume.qmd
-          - href: projects/port1/nlme_gps/gps_analysis_nlme.qmd
+          - href: projects/gps/gps_analysis_nlme.qmd
             text: "Sales Analysis"
 
 format:

@@ -1,0 +1,3 @@
+[submodule "projects/gps"]
+	path = projects/gps
+	url = https://github.com/nicolofp/test2.git

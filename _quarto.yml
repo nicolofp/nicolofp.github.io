@@ -1,18 +1,20 @@
 project:
   type: website
   output-dir: docs
-
+        
 website:
   title: "Nicolo Foppa Pedretti"
-  search: false
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: add_resume.qmd
-        text: Resume
+  sidebar:
+    style: "docked"
+    search: false
+    contents:
+      - text: "Introduction"
+        href: index.qmd
+      - section: "Basics"
+        href: about.qmd
+      - section: "Layout"
+        contents:
+          - add_resume.qmd
 
 format:
   html:

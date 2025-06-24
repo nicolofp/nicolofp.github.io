@@ -13,5 +13,8 @@
   },
   "projects/port1/salmon/salmon_farming.qmd": {
     "salmon_farming.html": "e1020d22"
+  },
+  "projects/gps/gps_analysis_nlme.qmd": {
+    "gps_analysis_nlme.html": "7f7f5755"
   }
 }

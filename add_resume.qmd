@@ -5,7 +5,6 @@ date: "2025-06-10"
 format: 
   html:
     fontsize: smaller
-    embed-resources: true
 bibliography: reference_pl.bib
 csl: ieee.csl
 ---

@@ -11,10 +11,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: add_resume.qmd
+        text: Resume
+        
 
 format:
   html:
-    fontsize: smaller
     theme:
       - cosmo
       - brand

@@ -7,5 +7,11 @@
   },
   "add_resume.qmd": {
     "add_resume.html": "86229f92"
+  },
+  "projects/port1/nlme_gps/gps_analysis_nlme.qmd": {
+    "gps_analysis_nlme.html": "fb95ae7c"
+  },
+  "projects/port1/salmon/salmon_farming.qmd": {
+    "salmon_farming.html": "e1020d22"
   }
 }

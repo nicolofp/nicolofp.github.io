@@ -11,7 +11,8 @@ website:
       - text: "Introduction"
         href: index.qmd
       - section: "Basics"
-        href: about.qmd
+        contents: 
+          - about.qmd
       - section: "Layout"
         contents:
           - add_resume.qmd

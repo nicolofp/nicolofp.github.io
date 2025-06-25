@@ -1,8 +1,11 @@
 ---
-title: "Nicol&oacute; Foppa Pedretti"
+title: "List of publications"
+author: "Nicol&oacute; Foppa Pedretti"
+date: "2025-06-25"
 format: 
   html:
     fontsize: smaller
+    embed-resources: true
 bibliography: reference_pl.bib
 csl: ieee.csl
 ---

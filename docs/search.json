@@ -70,7 +70,7 @@
     "href": "projects/gps/gps_analysis_nlme.html#appendix",
     "title": "Heart rate recovery analysis",
     "section": "6 Appendix",
-    "text": "6 Appendix\nAutocorrelation\n\nparameters = c(\"b_a_Intercept\",\"b_a_N_train\",\"b_logb_Intercept\",\n               \"b_logb_N_train\",\"b_k_Intercept\",\"sd_date__a_Intercept\",\n               \"sd_date__logb_Intercept\",\"sigma\")\nmcmc_acf(fit_exponential, pars = parameters)\n\n\n\n\n\n\n\n\nPosterior density\n\nmcmc_dens(fit_exponential, pars = parameters)\n\n\n\n\n\n\n\n\nTraceplot after warmup\n\nmcmc_trace(fit_exponential, pars = parameters)",
+    "text": "6 Appendix\nAutocorrelation\n\nparameters = c(\"b_a_Intercept\",\"b_a_N_train\",\"b_logb_Intercept\",\n               \"b_logb_N_train\",\"b_k_Intercept\",\"sd_date__a_Intercept\",\n               \"sd_date__logb_Intercept\",\"sigma\")\nmcmc_acf(fit_exponential, pars = parameters)\n\n\n\n\n\n\n\n\nPosterior density\n\nmcmc_dens(fit_exponential, pars = parameters)\n\n\n\n\n\n\n\n\nTraceplot after warmup\n\nmcmc_trace(fit_exponential, pars = parameters)\n\n\n\n\n\n\n\n\nNote: add model selection + additional postprocess",
     "crumbs": [
       "Layout",
       "Sales Analysis"

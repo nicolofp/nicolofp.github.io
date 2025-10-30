@@ -81,18 +81,7 @@
     "href": "add_resume.html",
     "title": "List of publications",
     "section": "",
-    "text": "I am a quantitative data scientist with 8 years of comprehensive experience spanning pharmaceutical research, environmental health sciences, and financial markets across the United States and Italy. Currently, I work as a Quantitative Medicine Scientist at Critical Path Institute, where I develop disease progression models using linear and non-linear mixed effects frameworks in R and Stan, applying both frequentist and Bayesian approaches to analyze longitudinal Alzheimer’s data and identify predictive biomarkers. I have engineered automated ETL pipelines to transform clinical trial data from SDTM/ADaM standards into analysis-ready datamarts with robust data quality validation procedures.\nDuring my role as Biostatistician at the Icahn School of Medicine at Mount Sinai, I specialized in multi-omics data analysis, working with metabolomics and epigenetic datasets using machine learning techniques, dimensionality reduction methods like PCA, and t-SNE, and mixed-effects models for biomarker identification and biological pathway validation. I developed a novel Bayesian mixture regression R package using Stan and applied time series models including Distributed Lag Models, ARIMA, Bayesian splines, and Gaussian State Space Models for environmental health research. My work involved implementing machine learning pipelines with XGBoost, tree-based models, and polynomial regression for biomarkers prediction on large-scale genomic data, while building automated ETL workflows and generating publication-ready reports that contributed to peer-reviewed publications ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12]).\nMy financial sector experience includes roles as a Quantitative Analyst at InchCapital and Data Scientist at Gala S.p.A. in Milan, where I executed time series analysis using ARIMA and Hidden Markov Models to detect trading patterns and design quantitative strategies across multi-asset portfolios. I optimized investment portfolios using Markowitz theory and advanced methodologies to maximize risk-adjusted returns, while building mathematical models for commodity price forecasting and deploying parallel processing solutions on Linux servers. Throughout my career, I have maintained expertise in R, Stan, Julia, and SQL, consistently delivering automated analytical solutions that bridge complex statistical theory with practical business applications.",
-    "crumbs": [
-      "Basics",
-      "Publications"
-    ]
-  },
-  {
-    "objectID": "add_resume.html#introduction",
-    "href": "add_resume.html#introduction",
-    "title": "List of publications",
-    "section": "",
-    "text": "I am a quantitative data scientist with 8 years of comprehensive experience spanning pharmaceutical research, environmental health sciences, and financial markets across the United States and Italy. Currently, I work as a Quantitative Medicine Scientist at Critical Path Institute, where I develop disease progression models using linear and non-linear mixed effects frameworks in R and Stan, applying both frequentist and Bayesian approaches to analyze longitudinal Alzheimer’s data and identify predictive biomarkers. I have engineered automated ETL pipelines to transform clinical trial data from SDTM/ADaM standards into analysis-ready datamarts with robust data quality validation procedures.\nDuring my role as Biostatistician at the Icahn School of Medicine at Mount Sinai, I specialized in multi-omics data analysis, working with metabolomics and epigenetic datasets using machine learning techniques, dimensionality reduction methods like PCA, and t-SNE, and mixed-effects models for biomarker identification and biological pathway validation. I developed a novel Bayesian mixture regression R package using Stan and applied time series models including Distributed Lag Models, ARIMA, Bayesian splines, and Gaussian State Space Models for environmental health research. My work involved implementing machine learning pipelines with XGBoost, tree-based models, and polynomial regression for biomarkers prediction on large-scale genomic data, while building automated ETL workflows and generating publication-ready reports that contributed to peer-reviewed publications ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12]).\nMy financial sector experience includes roles as a Quantitative Analyst at InchCapital and Data Scientist at Gala S.p.A. in Milan, where I executed time series analysis using ARIMA and Hidden Markov Models to detect trading patterns and design quantitative strategies across multi-asset portfolios. I optimized investment portfolios using Markowitz theory and advanced methodologies to maximize risk-adjusted returns, while building mathematical models for commodity price forecasting and deploying parallel processing solutions on Linux servers. Throughout my career, I have maintained expertise in R, Stan, Julia, and SQL, consistently delivering automated analytical solutions that bridge complex statistical theory with practical business applications.",
+    "text": "During my role as Biostatistician at the Icahn School of Medicine at Mount Sinai, I specialized in multi-omics data analysis, working with metabolomics and epigenetic datasets using machine learning techniques, dimensionality reduction methods like PCA, and t-SNE, and mixed-effects models for biomarker identification and biological pathway validation. Below is a list of peer-reviewed publications featuring my contributions: ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12]).",
     "crumbs": [
       "Basics",
       "Publications"
@@ -112,9 +101,20 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Extended Resume",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "text": "I am a quantitative data scientist with 8 years of comprehensive experience spanning pharmaceutical research, environmental health sciences, and financial markets across the United States and Italy. Currently, I work as a Quantitative Medicine Scientist at Critical Path Institute, where I develop disease progression models using linear and non-linear mixed effects frameworks in R and Stan, applying both frequentist and Bayesian approaches to analyze longitudinal Alzheimer’s data and identify predictive biomarkers. I have engineered automated ETL pipelines to transform clinical trial data from SDTM/ADaM standards into analysis-ready datamarts with robust data quality validation procedures.\nDuring my role as Biostatistician at the Icahn School of Medicine at Mount Sinai, I specialized in multi-omics data analysis, working with metabolomics and epigenetic datasets using machine learning techniques, dimensionality reduction methods like PCA, and t-SNE, and mixed-effects models for biomarker identification and biological pathway validation. I developed a novel Bayesian mixture regression R package using Stan and applied time series models including Distributed Lag Models, ARIMA, Bayesian splines, and Gaussian State Space Models for environmental health research. My work involved implementing machine learning pipelines with XGBoost, tree-based models, and polynomial regression for biomarkers prediction on large-scale genomic data, while building automated ETL workflows and generating publication-ready reports.\nMy financial sector experience includes roles as a Quantitative Analyst at InchCapital and Data Scientist at Gala S.p.A. in Milan, where I executed time series analysis using ARIMA and Hidden Markov Models to detect trading patterns and design quantitative strategies across multi-asset portfolios. I optimized investment portfolios using Markowitz theory and advanced methodologies to maximize risk-adjusted returns, while building mathematical models for commodity price forecasting and deploying parallel processing solutions on Linux servers. Throughout my career, I have maintained expertise in R, Stan, Julia, and SQL, consistently delivering automated analytical solutions that bridge complex statistical theory with practical business applications.",
+    "crumbs": [
+      "Basics",
+      "Extended resume"
+    ]
+  },
+  {
+    "objectID": "about.html#introduction",
+    "href": "about.html#introduction",
+    "title": "Extended Resume",
+    "section": "",
+    "text": "I am a quantitative data scientist with 8 years of comprehensive experience spanning pharmaceutical research, environmental health sciences, and financial markets across the United States and Italy. Currently, I work as a Quantitative Medicine Scientist at Critical Path Institute, where I develop disease progression models using linear and non-linear mixed effects frameworks in R and Stan, applying both frequentist and Bayesian approaches to analyze longitudinal Alzheimer’s data and identify predictive biomarkers. I have engineered automated ETL pipelines to transform clinical trial data from SDTM/ADaM standards into analysis-ready datamarts with robust data quality validation procedures.\nDuring my role as Biostatistician at the Icahn School of Medicine at Mount Sinai, I specialized in multi-omics data analysis, working with metabolomics and epigenetic datasets using machine learning techniques, dimensionality reduction methods like PCA, and t-SNE, and mixed-effects models for biomarker identification and biological pathway validation. I developed a novel Bayesian mixture regression R package using Stan and applied time series models including Distributed Lag Models, ARIMA, Bayesian splines, and Gaussian State Space Models for environmental health research. My work involved implementing machine learning pipelines with XGBoost, tree-based models, and polynomial regression for biomarkers prediction on large-scale genomic data, while building automated ETL workflows and generating publication-ready reports.\nMy financial sector experience includes roles as a Quantitative Analyst at InchCapital and Data Scientist at Gala S.p.A. in Milan, where I executed time series analysis using ARIMA and Hidden Markov Models to detect trading patterns and design quantitative strategies across multi-asset portfolios. I optimized investment portfolios using Markowitz theory and advanced methodologies to maximize risk-adjusted returns, while building mathematical models for commodity price forecasting and deploying parallel processing solutions on Linux servers. Throughout my career, I have maintained expertise in R, Stan, Julia, and SQL, consistently delivering automated analytical solutions that bridge complex statistical theory with practical business applications.",
     "crumbs": [
       "Basics",
       "Extended resume"
@@ -125,7 +125,17 @@
     "href": "index.html",
     "title": "Nicolo Foppa Pedretti",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "Quantitative Data Scientist with over 8 years of experience bridging research, energy, and finance. My expertise lies in statistical modeling, machine learning, and Bayesian methods, backed by a strong publication record in peer-reviewed journals. Whether it’s developing disease progression models for Alzheimer’s research or optimizing investment portfolios through advanced time series analysis, I thrive on turning complex data into actionable insights.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
+    "title": "Nicolo Foppa Pedretti",
+    "section": "Contacts",
+    "text": "Contacts\n\nemail: nicolo.fp@gmail.com\nGitHub\nLinkedIn",
     "crumbs": [
       "Introduction"
     ]

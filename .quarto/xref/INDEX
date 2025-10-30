@@ -16,5 +16,20 @@
   },
   "projects/gps/gps_analysis_nlme.qmd": {
     "gps_analysis_nlme.html": "7f7f5755"
+  },
+  "projects/portfolio/nlme_gps/gps_analysis_nlme.qmd": {
+    "gps_analysis_nlme.html": "ad4e6f3e"
+  },
+  "projects/portfolio/salmon/salmon_farming.qmd": {
+    "salmon_farming.html": "330183eb"
+  },
+  "projects/portfolio/salmon/salmon_mc_simulation.ipynb": {
+    "salmon_mc_simulation.html": "8c731426"
+  },
+  "projects/portfolio/salmon/salmon_model.ipynb": {
+    "salmon_model.html": "cf87305e"
+  },
+  "projects/portfolio/solar_forecast/solar_forecast_new.qmd": {
+    "solar_forecast_new.html": "93010676"
   }
 }

@@ -44,7 +44,11 @@ Quantitative Data Scientist with over 8 years of experience bridging research, e
 ## Education
 
 - **Master of Science in Statistics** | Universit&aacute; degli Studi Milano-Bicocca, Milan, Italy | September 2013 – January 2016
-Focused on advanced probability theory, statistical inference, statistical computing, linear models, econometric methods (panel data analysis, time series analysis, forecasting), risk management, financial modeling with R applications, and multivariate statistics (principal component analysis, factor analysis, cluster analysis). Prepared for careers in data analysis, research, and consulting in finance and healthcare.
+
+  - Focused on advanced probability theory, statistical inference, statistical computing, linear models, econometric methods (panel data analysis, time series analysis, forecasting), risk management, financial modeling with R applications, and multivariate statistics (principal component analysis, factor analysis, cluster analysis). 
+  - Prepared for careers in data analysis, research, and consulting in finance and healthcare.
 
 - **Bachelor of Science in Applied Mathematics** | Universit&aacute; degli Studi di Milano, Milan, Italy | September 2009 – December 2013
-Covered algebra, calculus, linear algebra, calculus of several variables, differential equations, Euclidean geometry, differential geometry, topology, numerical analysis (numerical integration, root-finding, solving differential equations using C/C++ and MATLAB), mechanics, electromagnetism, thermodynamics, and quantum mechanics. Built skills in mathematical modeling and analysis for applications in engineering, computer science, finance, and research.
+
+  - Covered algebra, calculus, linear algebra, calculus of several variables, differential equations, Euclidean geometry, differential geometry, topology, numerical analysis (numerical integration, root-finding, solving differential equations using C/C++ and MATLAB), mechanics, electromagnetism, thermodynamics, and quantum mechanics. 
+  - Built skills in mathematical modeling and analysis for applications in engineering, computer science, finance, and research.

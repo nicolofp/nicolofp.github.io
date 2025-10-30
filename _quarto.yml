@@ -6,6 +6,7 @@ website:
   title: "Nicol&oacute; Foppa Pedretti"
   sidebar:
     style: "docked"
+    collapse-level: 1
     search: false
     contents:
       - text: "Introduction"

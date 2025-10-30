@@ -21,6 +21,10 @@ website:
         contents:
           - href: projects/gps/gps_analysis_nlme.qmd
             text: "Heart rate recovery analysis"
+          - href: projects/portfolio/solar_forecast/solar_forecast_new.qmd
+            text: "Solar energy forecast"
+          - href: projects/portfolio/salmon/salmon_farming.qmd
+            text: "Salmon farming model"  
 
 format:
   html:

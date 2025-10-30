@@ -13,5 +13,5 @@ Quantitative Data Scientist with over 8 years of experience bridging research, e
 - [nicolo.fp@gmail.com](mailto:nicolo.fp@gmail.com)
 - [GitHub](https://github.com/nicolofp)
 - [LinkedIn](https://www.linkedin.com/in/nicol%C3%B2-foppa-pedretti-b841a299)
-- [Resume](docs/NFP_resume.pdf)
+- [Resume](docs_pdf/NFP_resume.pdf)
 

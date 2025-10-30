@@ -1,5 +1,7 @@
 ---
-title: "test_project_quarto"
+title: "Nicolo Foppa Pedretti"
+subtitle: "Quantitative Data Scientist | Statistical & Bayesian Modeling"
+author: "nicolo.fp@gmail.com | [GitHub](https://github.com/nicolofp) | [LinkedIn](https://linkedin.com/in/nicolofp)"
 format: 
   html:
     fontsize: smaller
@@ -8,7 +10,3 @@ format:
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

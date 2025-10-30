@@ -16,7 +16,7 @@ website:
             text: "Extended resume"
           - href: add_resume.qmd
             text: "Publications"
-      - section: "Layout"
+      - section: "Projects"
         contents:
           - href: projects/gps/gps_analysis_nlme.qmd
             text: "Heart rate recovery analysis"

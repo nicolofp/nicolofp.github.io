@@ -1,7 +1,8 @@
 ---
 title: "List of publications"
 author: "Nicol&oacute; Foppa Pedretti"
-date: "2025-06-25"
+date: today
+date-format: long
 format: 
   html:
     fontsize: smaller
@@ -10,17 +11,9 @@ bibliography: reference_pl.bib
 csl: ieee.csl
 ---
 
-## Introduction
+During my role as **Biostatistician** at the Icahn School of Medicine at Mount Sinai, I specialized in **multi-omics** data analysis, working with metabolomics and epigenetic datasets using **machine learning techniques**, dimensionality reduction methods like **PCA**, and **t-SNE**, and  **mixed-effects models** for biomarker identification and biological pathway validation. Below is a list of peer-reviewed publications featuring my contributions: [@01984727-202006000-00003], [@01984727-202206000-00002], [@Colicino2023.04.14.23288581], [@THOMPSON2025100027], [@10.1093/aje/kwad233], [@ALCALA2024176311], [@Carrión2021], [@COLICINO2022107320], [@GERBI2022107529], [@COLICINO2021111338], [@COLICINO2021106750], [@COLICINO2020110113].
 
-I am a quantitative data scientist with 8 years of comprehensive experience spanning pharmaceutical research, environmental health sciences, and financial markets across the United States and Italy. Currently, I work as a **Quantitative Medicine Scientist** at Critical Path Institute, where I develop disease progression models using linear and non-linear **mixed effects** frameworks in **R** and **Stan**, applying both frequentist and **Bayesian** approaches to analyze longitudinal Alzheimer's data and identify predictive biomarkers. I have engineered automated **ETL** pipelines to transform clinical trial data from `SDTM/ADaM` standards into analysis-ready datamarts with robust data quality validation procedures.
-
-During my role as **Biostatistician** at the Icahn School of Medicine at Mount Sinai, I specialized in **multi-omics** data analysis, working with metabolomics and epigenetic datasets using **machine learning techniques**, dimensionality reduction methods like **PCA**, and **t-SNE**, and  **mixed-effects models** for biomarker identification and biological pathway validation. I developed a novel [Bayesian mixture regression](https://github.com/ElenaColicino/bwqs) R package using Stan and applied time series models including **Distributed Lag Models**, **ARIMA**, **Bayesian splines**, and **Gaussian State Space Models** for environmental health research. My work involved implementing **machine learning pipelines** with **XGBoost**, **tree-based models**, and **polynomial regression** for biomarkers prediction on **large-scale genomic data**, while building automated **ETL workflows** and generating publication-ready [reports](https://github.com/nicolofp/Rmarkdown_advanced) that contributed to peer-reviewed publications ([@01984727-202006000-00003], [@01984727-202206000-00002], [@Colicino2023.04.14.23288581], [@THOMPSON2025100027], [@10.1093/aje/kwad233], [@ALCALA2024176311], [@Carrión2021], [@COLICINO2022107320], [@GERBI2022107529], [@COLICINO2021111338], [@COLICINO2021106750], [@COLICINO2020110113]).
-
-My financial sector experience includes roles as a **Quantitative Analyst** at InchCapital and **Data Scientist** at Gala S.p.A. in Milan, where I executed **time series analysis** using **ARIMA and Hidden Markov Models** to detect trading patterns and design quantitative strategies across multi-asset portfolios. I optimized investment portfolios using Markowitz theory and advanced methodologies to maximize risk-adjusted returns, while building mathematical models for commodity price forecasting and deploying **parallel processing** solutions on **Linux** servers. Throughout my career, I have maintained expertise in **R**, **Stan**, **Julia**, and **SQL**, consistently delivering automated analytical solutions that bridge complex statistical theory with practical business applications.
-
-
-
-## List of publications
+### List of publications
 
 ::: {#refs}
 :::

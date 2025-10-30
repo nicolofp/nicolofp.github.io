@@ -3,7 +3,7 @@ project:
   output-dir: docs
         
 website:
-  title: "Nicolo Foppa Pedretti"
+  title: "Nicol&oacute; Foppa Pedretti"
   sidebar:
     style: "docked"
     search: false

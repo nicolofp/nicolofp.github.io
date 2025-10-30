@@ -1,12 +1,17 @@
 ---
-title: "Nicolo Foppa Pedretti"
+title: "Nicol&oacute; Foppa Pedretti"
 subtitle: "Quantitative Data Scientist | Statistical & Bayesian Modeling"
-author: "nicolo.fp@gmail.com | [GitHub](https://github.com/nicolofp) | [LinkedIn](https://linkedin.com/in/nicolofp)"
 format: 
   html:
     fontsize: smaller
 ---
 
-This is a Quarto website.
+Quantitative Data Scientist with over 8 years of experience bridging research, energy, and finance. My expertise lies in statistical modeling, machine learning, and Bayesian methods, backed by a strong publication record in peer-reviewed journals. Whether it's developing disease progression models for Alzheimer's research or optimizing investment portfolios through advanced time series analysis, I thrive on turning complex data into actionable insights.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Contacts
+
+- [nicolo.fp@gmail.com](mailto:nicolo.fp@gmail.com)
+- [GitHub](https://github.com/nicolofp)
+- [LinkedIn](https://www.linkedin.com/in/nicol%C3%B2-foppa-pedretti-b841a299)
+- [Resume](docs/NFP_resume.pdf)
+

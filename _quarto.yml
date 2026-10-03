@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - docs_pdf/
   render:
     - index.qmd
     - about.qmd

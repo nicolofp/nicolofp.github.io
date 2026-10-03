@@ -266,7 +266,7 @@
     "href": "certifications.html#statistics-and-bayesian-modeling",
     "title": "Certifications",
     "section": "Statistics and Bayesian Modeling",
-    "text": "Statistics and Bayesian Modeling\n\nBayesian Modeling with RJAGS | DataCamp | December 2020\n\nBuilding, fitting, and interpreting Bayesian models in R with JAGS, from simple conjugate models to Bayesian regression, including prior specification, MCMC diagnostics, and posterior inference.\n\nExperimental Design in R | DataCamp | February 2021\n\nPlanning and analyzing experiments in R: randomized and block designs, Latin squares, factorial experiments, power and sample size calculations, and the ANOVA-based tests used to evaluate them.",
+    "text": "Statistics and Bayesian Modeling\n\nBayesian Modeling with RJAGS | DataCamp | December 2020 | Certificate (PDF)\n\nBuilding, fitting, and interpreting Bayesian models in R with JAGS, from simple conjugate models to Bayesian regression, including prior specification, MCMC diagnostics, and posterior inference.\n\nExperimental Design in R | DataCamp | February 2021 | Certificate (PDF)\n\nPlanning and analyzing experiments in R: randomized and block designs, Latin squares, factorial experiments, power and sample size calculations, and the ANOVA-based tests used to evaluate them.",
     "crumbs": [
       "Basics",
       "Certifications"
@@ -277,7 +277,7 @@
     "href": "certifications.html#bioinformatics-and-genomics",
     "title": "Certifications",
     "section": "Bioinformatics and Genomics",
-    "text": "Bioinformatics and Genomics\n\nAnalyzing Genomic Data in R | DataCamp | May 2024\n\nWorking with genomic datasets in R and Bioconductor, from data import and annotation to exploratory analysis of genomic features.\n\nRNA-Seq with Bioconductor in R | DataCamp | November 2023\n\nDifferential gene expression analysis of RNA-Seq data with DESeq2, covering count normalization, quality control, model fitting, and visualization of results.\n\nIntroduction to Bioconductor in R | DataCamp | October 2022\n\nCore Bioconductor infrastructure for biological data: genomic ranges, sequence objects, and the classes and packages used to manage and analyze high-throughput genomic data.",
+    "text": "Bioinformatics and Genomics\n\nAnalyzing Genomic Data in R | DataCamp | May 2024 | Certificate (PDF)\n\nWorking with genomic datasets in R and Bioconductor, from data import and annotation to exploratory analysis of genomic features.\n\nRNA-Seq with Bioconductor in R | DataCamp | November 2023 | Certificate (PDF)\n\nDifferential gene expression analysis of RNA-Seq data with DESeq2, covering count normalization, quality control, model fitting, and visualization of results.\n\nIntroduction to Bioconductor in R | DataCamp | October 2022 | Certificate (PDF)\n\nCore Bioconductor infrastructure for biological data: genomic ranges, sequence objects, and the classes and packages used to manage and analyze high-throughput genomic data.",
     "crumbs": [
       "Basics",
       "Certifications"
@@ -288,7 +288,7 @@
     "href": "certifications.html#machine-learning",
     "title": "Certifications",
     "section": "Machine Learning",
-    "text": "Machine Learning\n\nFoundations of Machine Learning | JuliaAcademy | October 2023\n\nMachine learning fundamentals implemented in Julia, from data representation and loss functions to model building and optimization with gradient descent.",
+    "text": "Machine Learning\n\nFoundations of Machine Learning | JuliaAcademy | October 2023 | Certificate (PDF)\n\nMachine learning fundamentals implemented in Julia, from data representation and loss functions to model building and optimization with gradient descent.",
     "crumbs": [
       "Basics",
       "Certifications"
@@ -299,7 +299,7 @@
     "href": "certifications.html#programming-and-data-engineering",
     "title": "Certifications",
     "section": "Programming and Data Engineering",
-    "text": "Programming and Data Engineering\n\nIntroduction to DataFrames.jl | JuliaAcademy | October 2023\n\nData manipulation in Julia with DataFrames.jl: reading and writing data, selecting and transforming columns, grouping, joining, and reshaping tables.\n\nData Processing in Shell | DataCamp | May 2024\n\nDownloading and processing data from the command line with curl, wget, and csvkit, and automating data workflows with Bash scripts and cron jobs.\n\nIntroduction to Shell | DataCamp | May 2024\n\nNavigating the file system and manipulating files from the command line, combining tools with pipes and redirection, and writing simple shell scripts.\n\nIntermediate Python | DataCamp | January 2023\n\nData visualization with matplotlib, data structures such as dictionaries and pandas DataFrames, control flow, loops, and a hands-on simulation case study.\n\nPython Data Science Toolbox (Part 1) | DataCamp | January 2023\n\nWriting custom Python functions with default and flexible arguments, understanding scope, using lambda functions, and handling errors.\n\nIntroduction to Python | DataCamp | January 2023\n\nPython fundamentals for data analysis: variables and types, lists, functions and methods, packages, and numerical computing with NumPy.\n\nParallel Computing in R | DataCamp | November 2021\n\nSpeeding up R code by splitting work across multiple cores with the parallel, foreach, and future.apply packages, including reproducible parallel random number generation.\n\nObject-Oriented Programming with S3 and R6 in R | DataCamp | July 2021\n\nDesigning object-oriented R code with S3 generics and methods and R6 classes, including encapsulation, inheritance, and active bindings.\n\nIntroduction to Spark with sparklyr in R | DataCamp | October 2020\n\nAnalyzing large datasets in Apache Spark from R using sparklyr and dplyr syntax, including Spark DataFrames, feature transformations, and machine learning with Spark MLlib.",
+    "text": "Programming and Data Engineering\n\nIntroduction to DataFrames.jl | JuliaAcademy | October 2023 | Certificate (PDF)\n\nData manipulation in Julia with DataFrames.jl: reading and writing data, selecting and transforming columns, grouping, joining, and reshaping tables.\n\nData Processing in Shell | DataCamp | May 2024 | Certificate (PDF)\n\nDownloading and processing data from the command line with curl, wget, and csvkit, and automating data workflows with Bash scripts and cron jobs.\n\nIntroduction to Shell | DataCamp | May 2024 | Certificate (PDF)\n\nNavigating the file system and manipulating files from the command line, combining tools with pipes and redirection, and writing simple shell scripts.\n\nIntermediate Python | DataCamp | January 2023 | Certificate (PDF)\n\nData visualization with matplotlib, data structures such as dictionaries and pandas DataFrames, control flow, loops, and a hands-on simulation case study.\n\nPython Data Science Toolbox (Part 1) | DataCamp | January 2023 | Certificate (PDF)\n\nWriting custom Python functions with default and flexible arguments, understanding scope, using lambda functions, and handling errors.\n\nIntroduction to Python | DataCamp | January 2023 | Certificate (PDF)\n\nPython fundamentals for data analysis: variables and types, lists, functions and methods, packages, and numerical computing with NumPy.\n\nParallel Computing in R | DataCamp | November 2021 | Certificate (PDF)\n\nSpeeding up R code by splitting work across multiple cores with the parallel, foreach, and future.apply packages, including reproducible parallel random number generation.\n\nObject-Oriented Programming with S3 and R6 in R | DataCamp | July 2021 | Certificate (PDF)\n\nDesigning object-oriented R code with S3 generics and methods and R6 classes, including encapsulation, inheritance, and active bindings.\n\nIntroduction to Spark with sparklyr in R | DataCamp | October 2020 | Certificate (PDF)\n\nAnalyzing large datasets in Apache Spark from R using sparklyr and dplyr syntax, including Spark DataFrames, feature transformations, and machine learning with Spark MLlib.",
     "crumbs": [
       "Basics",
       "Certifications"
@@ -310,7 +310,7 @@
     "href": "certifications.html#awards",
     "title": "Certifications",
     "section": "Awards",
-    "text": "Awards\n\nBest Startup Award – ImproveMi | Plug and Play Italy × ShapeMI (Global Shapers Community Milan) | 2021\n\nAwarded, together with Virginia Bergamasco and Niccolò Cesaris, the best startup award for ImproveMi, granting access to the Plug and Play Sparks pre-acceleration program.",
+    "text": "Awards\n\nBest Startup Award – ImproveMi | Plug and Play Italy × ShapeMI (Global Shapers Community Milan) | 2021 | Award (PDF)\n\nAwarded, together with Virginia Bergamasco and Niccolò Cesaris, the best startup award for ImproveMi, granting access to the Plug and Play Sparks pre-acceleration program.",
     "crumbs": [
       "Basics",
       "Certifications"

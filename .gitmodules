@@ -1,3 +1,4 @@
 [submodule "projects/portfolio"]
 	path = projects/portfolio
 	url = https://github.com/nicolofp/portfolio.git
+	ignore = dirty

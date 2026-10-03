@@ -19,7 +19,7 @@ website:
             text: "Publications"
       - section: "Projects"
         contents:
-          - href: projects/gps/gps_analysis_nlme.qmd
+          - href: projects/portfolio/nlme_gps/gps_analysis_nlme.qmd
             text: "Heart rate recovery analysis"
           - href: projects/portfolio/solar_forecast/solar_forecast_new.qmd
             text: "Solar energy forecast"

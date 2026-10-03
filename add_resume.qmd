@@ -11,7 +11,7 @@ bibliography: reference_pl.bib
 csl: ieee.csl
 ---
 
-During my role as **Biostatistician** at the Icahn School of Medicine at Mount Sinai, I specialized in **multi-omics** data analysis, working with metabolomics and epigenetic datasets using **machine learning techniques**, dimensionality reduction methods like **PCA**, and **t-SNE**, and  **mixed-effects models** for biomarker identification and biological pathway validation. Below is a list of peer-reviewed publications featuring my contributions: [@01984727-202006000-00003], [@01984727-202206000-00002], [@Colicino2023.04.14.23288581], [@THOMPSON2025100027], [@10.1093/aje/kwad233], [@ALCALA2024176311], [@Carrión2021], [@COLICINO2022107320], [@GERBI2022107529], [@COLICINO2021111338], [@COLICINO2021106750], [@COLICINO2020110113].
+During my role as **Biostatistician** at the Icahn School of Medicine at Mount Sinai, I specialized in **multi-omics** data analysis, working with metabolomics and epigenetic datasets using **machine learning techniques**, dimensionality reduction methods like **PCA**, and **t-SNE**, and  **mixed-effects models** for biomarker identification and biological pathway validation. Below is a list of peer-reviewed publications featuring my contributions: [@01984727-202006000-00003], [@01984727-202206000-00002], [@COLICINO2024e202300270], [@COLICINO2023106395], [@THOMPSON2025100027], [@10.1093/aje/kwad233], [@ALCALA2024176311], [@Carrión2021], [@COLICINO2022107320], [@GERBI2022107529], [@COLICINO2021111338], [@COLICINO2021106750], [@COLICINO2020110113].
 
 ### List of publications
 

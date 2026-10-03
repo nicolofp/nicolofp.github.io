@@ -5,6 +5,7 @@ project:
     - index.qmd
     - about.qmd
     - add_resume.qmd
+    - certifications.qmd
     - projects/portfolio/nlme_gps/gps_analysis_nlme.qmd
     - projects/portfolio/solar_forecast/solar_forecast_new.qmd
     - projects/portfolio/salmon/salmon_farming.qmd
@@ -24,6 +25,8 @@ website:
             text: "Extended resume"
           - href: add_resume.qmd
             text: "Publications"
+          - href: certifications.qmd
+            text: "Certifications"
       - section: "Projects"
         contents:
           - href: projects/portfolio/nlme_gps/gps_analysis_nlme.qmd

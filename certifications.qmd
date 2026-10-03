@@ -1,0 +1,88 @@
+---
+title: "Certifications"
+author: "Nicol&oacute; Foppa Pedretti"
+date: today
+date-format: long
+format:
+  html:
+    fontsize: smaller
+    embed-resources: true
+---
+
+## Introduction
+
+Alongside my professional and research work, I keep my toolkit up to date through structured online courses. The certifications below cover Bayesian modeling, bioinformatics and genomics, machine learning, and the programming and data engineering tools (R, Python, Julia, Shell, Spark) I use every day.
+
+## Statistics and Bayesian Modeling
+
+- **Bayesian Modeling with RJAGS** | DataCamp | December 2020
+
+  - Building, fitting, and interpreting Bayesian models in R with JAGS, from simple conjugate models to Bayesian regression, including prior specification, MCMC diagnostics, and posterior inference.
+
+- **Experimental Design in R** | DataCamp | February 2021
+
+  - Planning and analyzing experiments in R: randomized and block designs, Latin squares, factorial experiments, power and sample size calculations, and the ANOVA-based tests used to evaluate them.
+
+## Bioinformatics and Genomics
+
+- **Analyzing Genomic Data in R** | DataCamp | May 2024
+
+  - Working with genomic datasets in R and Bioconductor, from data import and annotation to exploratory analysis of genomic features.
+
+- **RNA-Seq with Bioconductor in R** | DataCamp | November 2023
+
+  - Differential gene expression analysis of RNA-Seq data with DESeq2, covering count normalization, quality control, model fitting, and visualization of results.
+
+- **Introduction to Bioconductor in R** | DataCamp | October 2022
+
+  - Core Bioconductor infrastructure for biological data: genomic ranges, sequence objects, and the classes and packages used to manage and analyze high-throughput genomic data.
+
+## Machine Learning
+
+- **Foundations of Machine Learning** | JuliaAcademy | October 2023
+
+  - Machine learning fundamentals implemented in Julia, from data representation and loss functions to model building and optimization with gradient descent.
+
+## Programming and Data Engineering
+
+- **Introduction to DataFrames.jl** | JuliaAcademy | October 2023
+
+  - Data manipulation in Julia with DataFrames.jl: reading and writing data, selecting and transforming columns, grouping, joining, and reshaping tables.
+
+- **Data Processing in Shell** | DataCamp | May 2024
+
+  - Downloading and processing data from the command line with curl, wget, and csvkit, and automating data workflows with Bash scripts and cron jobs.
+
+- **Introduction to Shell** | DataCamp | May 2024
+
+  - Navigating the file system and manipulating files from the command line, combining tools with pipes and redirection, and writing simple shell scripts.
+
+- **Intermediate Python** | DataCamp | January 2023
+
+  - Data visualization with matplotlib, data structures such as dictionaries and pandas DataFrames, control flow, loops, and a hands-on simulation case study.
+
+- **Python Data Science Toolbox (Part 1)** | DataCamp | January 2023
+
+  - Writing custom Python functions with default and flexible arguments, understanding scope, using lambda functions, and handling errors.
+
+- **Introduction to Python** | DataCamp | January 2023
+
+  - Python fundamentals for data analysis: variables and types, lists, functions and methods, packages, and numerical computing with NumPy.
+
+- **Parallel Computing in R** | DataCamp | November 2021
+
+  - Speeding up R code by splitting work across multiple cores with the parallel, foreach, and future.apply packages, including reproducible parallel random number generation.
+
+- **Object-Oriented Programming with S3 and R6 in R** | DataCamp | July 2021
+
+  - Designing object-oriented R code with S3 generics and methods and R6 classes, including encapsulation, inheritance, and active bindings.
+
+- **Introduction to Spark with sparklyr in R** | DataCamp | October 2020
+
+  - Analyzing large datasets in Apache Spark from R using sparklyr and dplyr syntax, including Spark DataFrames, feature transformations, and machine learning with Spark MLlib.
+
+## Awards
+
+- **Best Startup Award – ImproveMi** | Plug and Play Italy &times; ShapeMI (Global Shapers Community Milan) | 2021
+
+  - Awarded, together with Virginia Bergamasco and Niccol&ograve; Cesaris, the best startup award for ImproveMi, granting access to the Plug and Play Sparks pre-acceleration program.

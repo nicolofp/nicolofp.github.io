@@ -179,7 +179,7 @@
     "href": "index.html",
     "title": "Nicoló Foppa Pedretti",
     "section": "",
-    "text": "Quantitative Data Scientist with over 8 years of experience bridging research, energy, and finance. My expertise lies in statistical modeling, machine learning, and Bayesian methods, backed by a strong publication record in peer-reviewed journals. Whether it’s developing disease progression models for Alzheimer’s research or optimizing investment portfolios through advanced time series analysis, I thrive on turning complex data into actionable insights.",
+    "text": "Associate Director, Statistical Data Scientist at Praxis Precision Medicine, with over 8 years of experience bridging pharma, research, energy, and finance. I build metadata-driven automation that turns statistical analysis plans into reproducible, submission-ready datasets and TLFs, and I implement and validate the methods behind them, from MMRM and ANCOVA to logistic regression. My expertise lies in statistical modeling, machine learning, and Bayesian methods, backed by a strong publication record in peer-reviewed journals. Whether it’s developing disease progression models for Alzheimer’s research or optimizing investment portfolios through advanced time series analysis, I thrive on turning complex data into actionable insights.",
     "crumbs": [
       "Introduction"
     ]
@@ -368,6 +368,16 @@
     "crumbs": [
       "Projects",
       "Solar energy forecast"
+    ]
+  },
+  {
+    "objectID": "index.html#areas-of-expertise",
+    "href": "index.html#areas-of-expertise",
+    "title": "Nicoló Foppa Pedretti",
+    "section": "Areas of expertise",
+    "text": "Areas of expertise\n\nClinical trial statistics: MMRM, ANCOVA, and logistic regression; submission-ready analytical datasets and TLFs\nPharmacometrics: non-linear mixed-effects (NLME) disease progression models\nBayesian modeling: Stan and JAGS; hierarchical and mixture regression models\nMulti-omics and environmental health: biomarker discovery and exposure mixture analysis\nTime series and forecasting: financial and energy markets",
+    "crumbs": [
+      "Introduction"
     ]
   }
 ]
